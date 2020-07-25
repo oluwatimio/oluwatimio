@@ -10,7 +10,7 @@
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Ask me 
 ## Featured Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oluwatimio&repo=ehotel&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oluwatimio&repo=ehotel&theme=radical)](https://github.com/oluwatimio/ehotel)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatimio&hide=kotlin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
