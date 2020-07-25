@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning iOS Development
 - 👯 I’m looking to collaborate on Application Development
 - 💬 Ask me about Anything
-- 📫 How to reach me: [oluwatimio.github.io](oluwatimio.github.io)
+- 📫 How to reach me: [oluwatimio.github.io](https://oluwatimio.github.io)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Ask me 
 ## Featured Project
