@@ -1,11 +1,10 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oluwatimio&count_private=true&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
--->
+## A little about me
 - 🔭 I’m currently working on Shopify
 - 🌱 I’m currently learning iOS Development
-- 👯 I’m looking to collaborate on Application Dev
+- 👯 I’m looking to collaborate on Application Development
 - 💬 Ask me about Anything
 - 📫 How to reach me: [oluwatimio.github.io](oluwatimio.github.io)
 - 😄 Pronouns: Him/He
