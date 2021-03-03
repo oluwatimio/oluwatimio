@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Oluwatimi's github stats](https://github-readme-stats.vercel.app/api?username=oluwatimio&count_private=true&show_icons=true&theme=cobalt)](https://oluwatimio.github.io)
 
 ## A little about me
 - 🔭 I’m currently working on Shopify
